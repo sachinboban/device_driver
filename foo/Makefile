@@ -1,4 +1,4 @@
-obj-m := hello.o
+obj-m := foo.o
 
 # location of kernel tree
 KDIR := /lib/modules/$(shell uname -r)/build
